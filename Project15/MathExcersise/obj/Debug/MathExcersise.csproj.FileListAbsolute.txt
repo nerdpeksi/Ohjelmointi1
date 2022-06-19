@@ -1,0 +1,8 @@
+C:\Users\pekko\source\repos\Project15\MathExcersise\bin\Debug\MathExcersise.exe.config
+C:\Users\pekko\source\repos\Project15\MathExcersise\bin\Debug\MathExcersise.exe
+C:\Users\pekko\source\repos\Project15\MathExcersise\bin\Debug\MathExcersise.pdb
+C:\Users\pekko\source\repos\Project15\MathExcersise\obj\Debug\MathExcersise.csproj.AssemblyReference.cache
+C:\Users\pekko\source\repos\Project15\MathExcersise\obj\Debug\MathExcersise.csproj.SuggestedBindingRedirects.cache
+C:\Users\pekko\source\repos\Project15\MathExcersise\obj\Debug\MathExcersise.csproj.CoreCompileInputs.cache
+C:\Users\pekko\source\repos\Project15\MathExcersise\obj\Debug\MathExcersise.exe
+C:\Users\pekko\source\repos\Project15\MathExcersise\obj\Debug\MathExcersise.pdb

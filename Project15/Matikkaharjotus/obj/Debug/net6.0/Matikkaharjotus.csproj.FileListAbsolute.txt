@@ -1,0 +1,15 @@
+C:\Users\pekko\source\repos\Project15\Matikkaharjotus\bin\Debug\net6.0\Matikkaharjotus.exe
+C:\Users\pekko\source\repos\Project15\Matikkaharjotus\bin\Debug\net6.0\Matikkaharjotus.deps.json
+C:\Users\pekko\source\repos\Project15\Matikkaharjotus\bin\Debug\net6.0\Matikkaharjotus.runtimeconfig.json
+C:\Users\pekko\source\repos\Project15\Matikkaharjotus\bin\Debug\net6.0\Matikkaharjotus.dll
+C:\Users\pekko\source\repos\Project15\Matikkaharjotus\bin\Debug\net6.0\Matikkaharjotus.pdb
+C:\Users\pekko\source\repos\Project15\Matikkaharjotus\obj\Debug\net6.0\Matikkaharjotus.csproj.AssemblyReference.cache
+C:\Users\pekko\source\repos\Project15\Matikkaharjotus\obj\Debug\net6.0\Matikkaharjotus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pekko\source\repos\Project15\Matikkaharjotus\obj\Debug\net6.0\Matikkaharjotus.AssemblyInfoInputs.cache
+C:\Users\pekko\source\repos\Project15\Matikkaharjotus\obj\Debug\net6.0\Matikkaharjotus.AssemblyInfo.cs
+C:\Users\pekko\source\repos\Project15\Matikkaharjotus\obj\Debug\net6.0\Matikkaharjotus.csproj.CoreCompileInputs.cache
+C:\Users\pekko\source\repos\Project15\Matikkaharjotus\obj\Debug\net6.0\Matikkaharjotus.dll
+C:\Users\pekko\source\repos\Project15\Matikkaharjotus\obj\Debug\net6.0\refint\Matikkaharjotus.dll
+C:\Users\pekko\source\repos\Project15\Matikkaharjotus\obj\Debug\net6.0\Matikkaharjotus.pdb
+C:\Users\pekko\source\repos\Project15\Matikkaharjotus\obj\Debug\net6.0\Matikkaharjotus.genruntimeconfig.cache
+C:\Users\pekko\source\repos\Project15\Matikkaharjotus\obj\Debug\net6.0\ref\Matikkaharjotus.dll
